@@ -36,3 +36,13 @@ textarea {
     margin: 0 0 20px;
     font-size: 16px;
 }
+
+.tag {
+    background-color: #333;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 5px 10px 0;
+    display: inline-block;
+}
