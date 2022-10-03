@@ -19,6 +19,7 @@ body {
 h3 {
     color: rgb(12, 12, 12);
     margin: 10px 0 20px;
+    text-align: center;
 }
 
 .container {
@@ -45,4 +46,8 @@ textarea {
     font-size: 16px;
     margin: 0 5px 10px 0;
     display: inline-block;
+}
+
+.tag.highlight {
+    background-color: rgb(236, 117, 117);
 }
